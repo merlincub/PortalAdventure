@@ -1,0 +1,10 @@
+**/desktop.ini
+**/desktop.ini.meta
+UnityVS.bb.CSharp*
+UnityVS.unity.CSharp*
+.vs/*
+Editor/
+Temp/*
+Library/*
+obj/*
+UnityPackageManager/*
